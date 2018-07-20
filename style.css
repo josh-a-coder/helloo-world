@@ -1,0 +1,203 @@
+h1{
+	text-transform:uppercase;
+	border: 1px solid black;
+	background-color:lightgrey;
+	width:750px;
+	height:70px;
+	color:darkred;
+	font-size:60px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.longy{
+	margin-left: auto;
+	margin-right:auto;
+	font-size:25px;
+	color: #004080;
+	
+}
+
+#p{ 
+    
+	box-sizing:border-box;
+	margin-top:270px;
+	float:left;
+	font-size:25px;
+	text-align:center;
+	position:relative;
+	padding-top:20px;
+	text-align:center;
+	height:620px;
+	width:200px;
+	bottom:250px;
+}	
+
+
+#like {
+	
+	font-family:arial black;
+	position:relative;
+	top:30px;
+	background-color:lightgrey;
+	float:right;
+	font-size:23px;
+	border:2px solid black;
+	height:480px;
+	width:310px;
+}
+body{
+	
+	background-repeat:no-repeat;
+	background-image: url('../website2/images/back3.jpg');
+}
+#main{
+	margin-left:25px;
+	position:fixed;
+	float:left;
+	color:blue;
+	font-size:30px;
+}
+
+#snap{
+	position:absolute;
+	left:1250px;
+	top:110px;
+	height:520px;
+	width:350px;
+	
+}
+#comppas {
+	border:5px solid darkred;
+	width:13%;
+	margin-top:8%;
+	margin-left:32%;
+	
+	
+
+}
+#para{
+	
+	margin: auto;
+	font-family:italics;
+	font-size:20px;
+	font-family:arial black;
+	padding:10px;
+	box-sizing:border-box;
+	padding:auto;
+	text-align:center;
+	width:1000px;
+	height:200px;
+	position:fixed;
+	margin-left:390px;
+	
+}
+#whyfish{
+	margin-left:560px;
+	position:fixed;
+	top:100px;
+	font-family:arial black;
+	font-size:20px;
+	height:600px;
+	width:500px;
+	text-align:center;
+}
+#wwe{
+	
+	margin-top:150px;
+}
+#home{
+	color:darkred
+}
+
+#long{
+	margin-top:410px;
+	margin-left:418px;	
+	height:325px;
+	width: 425px;
+}
+#whymoto{
+	position:absolute;
+	font-size:20px;
+	left:1320px;
+	top:60px;
+	width:300px;
+	font-family:arial black;
+}
+
+#moto{
+	
+	margin-top:100px;
+	margin-left:340px;
+	width:600px;
+	height:400px;
+}
+#fall{
+	margin-bottom:10px;
+	margin-top:100px;
+	margin-left:500px;
+	position:fixed;
+	height:290px;
+	width:250px;
+}
+#whyboard{
+	left:1150px;
+	position:absolute;
+	float:right;
+	top:90px;
+	font-family:arial black;
+	width:500px;
+	height:300px;
+}
+
+.langfish{
+	margin-bottom:50px;
+	margin-top:-50px;
+	margin-right:200px;
+	float:right;
+	color: #004080;
+	font-size:25px;
+}
+
+#wheelie{
+	position:absolute;
+	top:130px;
+	margin-left:335px;
+}
+#youtube{
+	margin-top:130px;
+	margin-left:400px;
+	width:445px;
+	height:250px;
+}
+#soccer{
+	
+	font-family:arial black;
+	position:fixed;
+	margin-left:490px;
+}
+#soccerrom{
+	font-family:arial black;
+	position:fixed;
+	margin-left:490px;
+}
+.lon{
+	font-size:25px;
+	color: #004080;
+	top:30px;
+	left:1380px;
+	position:absolute;
+}
+.lo{
+	font-size:25px;
+	color: #004080;
+	top:30px;
+	left:1380px;
+	position:absolute;
+}
+#fishy{
+	
+	top:580px;
+	position:absolute
+}
